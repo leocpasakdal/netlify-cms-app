@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "frontmatter-markdown-loader": "^2.0.0"
+    "frontmatter-markdown-loader": "^3.7.0"
   },
   "dependencies": {
     "next": "^9.0.5",
